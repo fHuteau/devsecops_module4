@@ -1,8 +1,8 @@
 const config = {
-  apiKey: "AKDZIDFKZDKFIDPZKFK",
-  secretKey: "jslkjlksjdfoziejskdfm",
+  apiKey: "AKIAIOSFODNN7EXAMPLE",
+  secretKey: "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY",
   dbPassword: "amlzkamzlekamzlekamz",
-  githubToken: "ghp_sjhdkfjshdkfjsdkfjshdkjfsdk"
+  githubToken: "ghp_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 };
 module.exports = config;
 
